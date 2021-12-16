@@ -12,4 +12,4 @@ ReactDOM.render(
   document.getElementById("root")
 );
 
-// React redux TS полный курс 2021 - 24:50
+// React redux TS полный курс 2021 - 30:20
