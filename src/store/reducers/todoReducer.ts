@@ -2,10 +2,10 @@ import { TodoAction, TodoActionTypes, TodoState } from "../../types/todo";
 
 const initialState: TodoState = {
   todos: [],
-  loading: false,
-  error: null,
   page: 1,
+  error: null,
   limit: 10,
+  loading: false,
 };
 
 export const todoReducer = (
